@@ -19,14 +19,9 @@
     "unit": "cross-env BABEL_ENV=test karma start test/unit/karma.conf.js --single-run",
     "codecov": "codecov",
     "test": "npm run lint && npm run unit && npm run codecov"
-  
   },
   "author": "baxi",
-
   "keywords": [
-    "baxi-ui",
-    "baxi",
-    "vue",
     "components"
   ],
   "license": "MIT",
@@ -127,7 +122,7 @@
   },
   "dependencies": {
     "babel-polyfill": "^6.26.0",
-    "baxi-create-api": "0.0.3",
+    "baxi-create-api": "0.2.0",
     "vue": "^2.5.16",
     "vue-directive-dragging": "0.0.3"
   },

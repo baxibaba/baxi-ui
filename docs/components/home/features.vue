@@ -8,7 +8,7 @@
         <p class="name">{{item.name}}</p>
         <p class="en">{{item.en}}</p>
       </div>
-      <p class="reserved">© 2018-2019 Dengwb. All Rights Reserved.</p>
+      <p class="reserved">© 2018-2019 Baxi. All Rights Reserved.</p>
     </div>
   </div>
 </template>

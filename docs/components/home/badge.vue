@@ -1,5 +1,5 @@
 <template>
-  <a class="badge" href="https://github.com/dengwb1991/baxi-ui" target="_blank">
+  <a class="badge" href="https://github.com/baxibaba/baxi-ui" target="_blank">
     <span class="badge-left">{{badgeName || type}}</span>
     <span class="badge-right">{{badgeValue || '...'}}</span>
   </a>
@@ -9,9 +9,9 @@
 import { ajax } from '../../assets/js/utils.js'
 
 const urlMap = {
-  watch: 'https://img.shields.io/github/watchers/dengwb1991/baxi-ui.json',
-  star: 'https://img.shields.io/github/stars/dengwb1991/baxi-ui.json',
-  fork: 'https://img.shields.io/github/forks/dengwb1991/baxi-ui.json'
+  watch: 'https://img.shields.io/github/watchers/baxibaba/baxi-ui.json',
+  star: 'https://img.shields.io/github/stars/baxibaba/baxi-ui.json',
+  fork: 'https://img.shields.io/github/forks/baxibaba/baxi-ui.json'
 }
 export default {
   data() {

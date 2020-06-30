@@ -22,7 +22,7 @@ export default {
   },
   methods: {
     examples () {
-      location.assign('http://baxi-ui.dengwb.com/examples')
+      location.assign('http://baxi-ui.Baxi.com/examples')
     }
   }
 }

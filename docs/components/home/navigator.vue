@@ -43,7 +43,7 @@ export default {
       }
     },
     git () {
-      location.assign('https://github.com/dengwb1991/baxi-ui')
+      location.assign('https://github.com/baxibaba/baxi-ui')
     },
     introduction () {
       this.$router.push('/zh-cn/introduction')
