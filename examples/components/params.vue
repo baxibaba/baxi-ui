@@ -52,7 +52,7 @@ export default {
         font-family: PingFangSC-Regular;
         padding-left: 20px;
         font-size: 32px;
-        color: #ffd400;
+        color: red;
         word-break: normal;
         white-space: pre-wrap;
         word-wrap: break-word;

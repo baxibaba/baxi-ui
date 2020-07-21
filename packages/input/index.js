@@ -1,6 +1,6 @@
 import baxiInput from './src/main'
 
-baxiInput.install = function (Vue) {
+baxiInput.install = (Vue) =>{
   Vue.component(baxiInput.name, baxiInput)
 }
 export default baxiInput

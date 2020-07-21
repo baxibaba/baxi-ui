@@ -3,7 +3,7 @@
     <ul>
       <li>
         <baxi-switch v-model="val"
-                    :init-callback="true"
+                    :init-callback="false"
                     @callback="handle">
           {{val}}
         </baxi-switch>
